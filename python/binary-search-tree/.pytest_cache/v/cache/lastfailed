@@ -1,0 +1,7 @@
+{
+  "binary_search_tree_test.py::BinarySearchTreeTest::test_can_sort_complex_tree": true,
+  "binary_search_tree_test.py::BinarySearchTreeTest::test_can_sort_if_second_number_is_greater_than_first": true,
+  "binary_search_tree_test.py::BinarySearchTreeTest::test_can_sort_if_second_number_is_same_as_first": true,
+  "binary_search_tree_test.py::BinarySearchTreeTest::test_can_sort_if_second_number_is_smaller_than_first": true,
+  "binary_search_tree_test.py::BinarySearchTreeTest::test_can_sort_single_number": true
+}

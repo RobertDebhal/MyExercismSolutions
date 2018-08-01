@@ -1,0 +1,14 @@
+/Users/rdebhal/Exercism/csharp/leap/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/rdebhal/Exercism/csharp/leap/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/rdebhal/Exercism/csharp/leap/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/rdebhal/Exercism/csharp/leap/bin/Debug/netcoreapp2.0/Leap.deps.json
+/Users/rdebhal/Exercism/csharp/leap/bin/Debug/netcoreapp2.0/Leap.runtimeconfig.json
+/Users/rdebhal/Exercism/csharp/leap/bin/Debug/netcoreapp2.0/Leap.runtimeconfig.dev.json
+/Users/rdebhal/Exercism/csharp/leap/bin/Debug/netcoreapp2.0/Leap.dll
+/Users/rdebhal/Exercism/csharp/leap/bin/Debug/netcoreapp2.0/Leap.pdb
+/Users/rdebhal/Exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.csprojAssemblyReference.cache
+/Users/rdebhal/Exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.csproj.CoreCompileInputs.cache
+/Users/rdebhal/Exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.AssemblyInfoInputs.cache
+/Users/rdebhal/Exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.AssemblyInfo.cs
+/Users/rdebhal/Exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.dll
+/Users/rdebhal/Exercism/csharp/leap/obj/Debug/netcoreapp2.0/Leap.pdb

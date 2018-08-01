@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSpaceAgeTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- age on Earth[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- age on Mercury[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- age on Venus *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  9.79 was not equal to 9.78 (SpaceAgeTest.scala:15)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- age on Mars[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- age on Jupiter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- age on Saturn[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- age on Uranus[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- age on Neptune[0m[0m

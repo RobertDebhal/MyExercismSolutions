@@ -1,0 +1,49 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:1:12: object scalatest is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalatest._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:4:31: not found: type FunSuite[0m
+[0m[[0m[31merror[0m] [0m[0mclass GradeSchoolTest extends FunSuite with Matchers with OneInstancePerTest {[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:4:45: not found: type Matchers[0m
+[0m[[0m[31merror[0m] [0m[0mclass GradeSchoolTest extends FunSuite with Matchers with OneInstancePerTest {[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:4:59: not found: type OneInstancePerTest[0m
+[0m[[0m[31merror[0m] [0m[0mclass GradeSchoolTest extends FunSuite with Matchers with OneInstancePerTest {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:5:20: not found: type School[0m
+[0m[[0m[31merror[0m] [0m[0m  val school = new School[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:7:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test ("empty school") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:11:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test ("add student") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:16:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test ("add more students in same class") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:23:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test ("add students to different grades") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:24:5: not found: value pending[0m
+[0m[[0m[31merror[0m] [0m[0m    pending[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:30:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test ("get students in a grade") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:31:5: not found: value pending[0m
+[0m[[0m[31merror[0m] [0m[0m    pending[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:38:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test ("get students in a non-existant grade") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:39:5: not found: value pending[0m
+[0m[[0m[31merror[0m] [0m[0m    pending[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:43:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test ("sort school") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/grade-school/src/test/scala/GradeSchoolTest.scala:44:5: not found: value pending[0m
+[0m[[0m[31merror[0m] [0m[0m    pending[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m16 errors found[0m

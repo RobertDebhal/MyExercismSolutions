@@ -1,0 +1,14 @@
+/Users/rdebhal/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/rdebhal/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/rdebhal/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/rdebhal/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/HelloWorld.deps.json
+/Users/rdebhal/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.json
+/Users/rdebhal/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.dev.json
+/Users/rdebhal/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/rdebhal/Exercism/csharp/hello-world/bin/Debug/netcoreapp2.0/HelloWorld.pdb
+/Users/rdebhal/Exercism/csharp/hello-world/obj/Debug/netcoreapp2.0/HelloWorld.csprojAssemblyReference.cache
+/Users/rdebhal/Exercism/csharp/hello-world/obj/Debug/netcoreapp2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/rdebhal/Exercism/csharp/hello-world/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/rdebhal/Exercism/csharp/hello-world/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfo.cs
+/Users/rdebhal/Exercism/csharp/hello-world/obj/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/rdebhal/Exercism/csharp/hello-world/obj/Debug/netcoreapp2.0/HelloWorld.pdb

@@ -1,0 +1,14 @@
+/Users/rdebhal/Exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.csprojAssemblyReference.cache
+/Users/rdebhal/Exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.csproj.CoreCompileInputs.cache
+/Users/rdebhal/Exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.AssemblyInfoInputs.cache
+/Users/rdebhal/Exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.AssemblyInfo.cs
+/Users/rdebhal/Exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/rdebhal/Exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/rdebhal/Exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/rdebhal/Exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.deps.json
+/Users/rdebhal/Exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.runtimeconfig.json
+/Users/rdebhal/Exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.runtimeconfig.dev.json
+/Users/rdebhal/Exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.dll
+/Users/rdebhal/Exercism/csharp/sum-of-multiples/bin/Debug/netcoreapp2.0/SumOfMultiples.pdb
+/Users/rdebhal/Exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.dll
+/Users/rdebhal/Exercism/csharp/sum-of-multiples/obj/Debug/netcoreapp2.0/SumOfMultiples.pdb

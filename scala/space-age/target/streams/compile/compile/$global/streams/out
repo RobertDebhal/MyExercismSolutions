@@ -1,0 +1,47 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:7:5: ambiguous reference to overloaded definition,[0m
+[0m[[0m[31merror[0m] [0m[0mboth method onEarth in object SpaceAge of type (age: Double)Double[0m
+[0m[[0m[31merror[0m] [0m[0mand  method onEarth in object SpaceAge of type (age: Double)Double[0m
+[0m[[0m[31merror[0m] [0m[0mmatch argument types (Double)[0m
+[0m[[0m[31merror[0m] [0m[0m    onEarth(age)*0.2408467[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:11:5: ambiguous reference to overloaded definition,[0m
+[0m[[0m[31merror[0m] [0m[0mboth method onEarth in object SpaceAge of type (age: Double)Double[0m
+[0m[[0m[31merror[0m] [0m[0mand  method onEarth in object SpaceAge of type (age: Double)Double[0m
+[0m[[0m[31merror[0m] [0m[0mmatch argument types (Double)[0m
+[0m[[0m[31merror[0m] [0m[0m    onEarth(age)*0.61519726[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:15:5: ambiguous reference to overloaded definition,[0m
+[0m[[0m[31merror[0m] [0m[0mboth method onEarth in object SpaceAge of type (age: Double)Double[0m
+[0m[[0m[31merror[0m] [0m[0mand  method onEarth in object SpaceAge of type (age: Double)Double[0m
+[0m[[0m[31merror[0m] [0m[0mmatch argument types (Double)[0m
+[0m[[0m[31merror[0m] [0m[0m    onEarth(age)*1.8808158[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:19:5: ambiguous reference to overloaded definition,[0m
+[0m[[0m[31merror[0m] [0m[0mboth method onEarth in object SpaceAge of type (age: Double)Double[0m
+[0m[[0m[31merror[0m] [0m[0mand  method onEarth in object SpaceAge of type (age: Double)Double[0m
+[0m[[0m[31merror[0m] [0m[0mmatch argument types (Double)[0m
+[0m[[0m[31merror[0m] [0m[0m    onEarth(age)*11.862615[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:23:5: ambiguous reference to overloaded definition,[0m
+[0m[[0m[31merror[0m] [0m[0mboth method onEarth in object SpaceAge of type (age: Double)Double[0m
+[0m[[0m[31merror[0m] [0m[0mand  method onEarth in object SpaceAge of type (age: Double)Double[0m
+[0m[[0m[31merror[0m] [0m[0mmatch argument types (Double)[0m
+[0m[[0m[31merror[0m] [0m[0m    onEarth(age)*29.447498[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:27:5: ambiguous reference to overloaded definition,[0m
+[0m[[0m[31merror[0m] [0m[0mboth method onEarth in object SpaceAge of type (age: Double)Double[0m
+[0m[[0m[31merror[0m] [0m[0mand  method onEarth in object SpaceAge of type (age: Double)Double[0m
+[0m[[0m[31merror[0m] [0m[0mmatch argument types (Double)[0m
+[0m[[0m[31merror[0m] [0m[0m    onEarth(age)*84.016846[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:31:5: ambiguous reference to overloaded definition,[0m
+[0m[[0m[31merror[0m] [0m[0mboth method onEarth in object SpaceAge of type (age: Double)Double[0m
+[0m[[0m[31merror[0m] [0m[0mand  method onEarth in object SpaceAge of type (age: Double)Double[0m
+[0m[[0m[31merror[0m] [0m[0mmatch argument types (Double)[0m
+[0m[[0m[31merror[0m] [0m[0m    onEarth(age)*164.79132[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/space-age/src/main/scala/SpaceAge.scala:30:7: method onEarth is defined twice;[0m
+[0m[[0m[31merror[0m] [0m[0m  the conflicting method onEarth was defined at line 26:7[0m
+[0m[[0m[31merror[0m] [0m[0m  def onEarth(age: Double) :Double = {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m8 errors found[0m

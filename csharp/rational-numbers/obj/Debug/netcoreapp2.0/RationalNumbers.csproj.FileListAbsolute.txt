@@ -1,0 +1,14 @@
+/Users/rdebhal/Exercism/csharp/rational-numbers/obj/Debug/netcoreapp2.0/RationalNumbers.csprojAssemblyReference.cache
+/Users/rdebhal/Exercism/csharp/rational-numbers/obj/Debug/netcoreapp2.0/RationalNumbers.csproj.CoreCompileInputs.cache
+/Users/rdebhal/Exercism/csharp/rational-numbers/obj/Debug/netcoreapp2.0/RationalNumbers.AssemblyInfoInputs.cache
+/Users/rdebhal/Exercism/csharp/rational-numbers/obj/Debug/netcoreapp2.0/RationalNumbers.AssemblyInfo.cs
+/Users/rdebhal/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/rdebhal/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/rdebhal/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/rdebhal/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.0/RationalNumbers.deps.json
+/Users/rdebhal/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.0/RationalNumbers.runtimeconfig.json
+/Users/rdebhal/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.0/RationalNumbers.runtimeconfig.dev.json
+/Users/rdebhal/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.0/RationalNumbers.dll
+/Users/rdebhal/Exercism/csharp/rational-numbers/bin/Debug/netcoreapp2.0/RationalNumbers.pdb
+/Users/rdebhal/Exercism/csharp/rational-numbers/obj/Debug/netcoreapp2.0/RationalNumbers.dll
+/Users/rdebhal/Exercism/csharp/rational-numbers/obj/Debug/netcoreapp2.0/RationalNumbers.pdb

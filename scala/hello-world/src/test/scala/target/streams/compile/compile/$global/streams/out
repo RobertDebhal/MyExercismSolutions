@@ -1,0 +1,19 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/hello-world/src/test/scala/HelloWorldTest.scala:1:12: object scalatest is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.scalatest.{Matchers, FunSuite}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/hello-world/src/test/scala/HelloWorldTest.scala:4:30: not found: type FunSuite[0m
+[0m[[0m[31merror[0m] [0m[0mclass HelloWorldTest extends FunSuite with Matchers {[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/hello-world/src/test/scala/HelloWorldTest.scala:4:44: not found: type Matchers[0m
+[0m[[0m[31merror[0m] [0m[0mclass HelloWorldTest extends FunSuite with Matchers {[0m
+[0m[[0m[31merror[0m] [0m[0m                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/hello-world/src/test/scala/HelloWorldTest.scala:6:3: not found: value test[0m
+[0m[[0m[31merror[0m] [0m[0m  test("Say Hi!") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/hello-world/src/test/scala/HelloWorldTest.scala:7:5: not found: value HelloWorld[0m
+[0m[[0m[31merror[0m] [0m[0m    HelloWorld.hello() should be ("Hello, World!")[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/rdebhal/Exercism/scala/hello-world/src/test/scala/HelloWorldTest.scala:7:31: not found: value be[0m
+[0m[[0m[31merror[0m] [0m[0m    HelloWorld.hello() should be ("Hello, World!")[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m
